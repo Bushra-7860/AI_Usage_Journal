@@ -11,8 +11,6 @@ concepts and to provide coding examples for concepts including f-strings and rep
 I did not use AI to complete any of the exercises. I did not use AI for debugging. 
 Here are my AI chat links. https://chatgpt.com/share/68c77576-649c-800e-945d-f2c9f3962bdf 
 
- 
-
 I tried out Copilot this week and did not have a good experience. 
 After receiving generic results that did not give me clear responses to my questions. 
 After giving clarity as to what I was asking the prompt was still not answered and responded
@@ -20,5 +18,12 @@ to move on rather than continue working. I learned a lot about why different AI 
 results on the same prompts. Turns out that it's about biases in their way of learning from their 
 audiences and what its source is.  
 
+
+Week 2
+This week I did not use AI while working on the excercises at all. 
+Instead I referenced our lecture as well as got help from our TA with 
+certain errors that I did not understand.
+
+For our week 2 discussion, I used ChatGPT to help with building a better study routine to stay ahead of assignments and ensure that I have a successful semester. I used ChatGPT because it gave the best results when I previously compared two different AI models. I gave a copy of my schedule and other commitments to formulate a schedule that best works for me.
  
 
