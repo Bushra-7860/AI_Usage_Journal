@@ -24,6 +24,6 @@ This week I did not use AI while working on the excercises at all.
 Instead I referenced our lecture as well as got help from our TA with 
 certain errors that I did not understand.
 
-For our week 2 discussion, I used ChatGPT to help with building a better study routine to stay ahead of assignments and ensure that I have a successful semester. I used ChatGPT because it gave the best results when I previously compared two different AI models. I gave a copy of my schedule and other commitments to formulate a schedule that best works for me.
+For our week 2 discussion, I used ChatGPT to help with building a better study routine to stay ahead of assignments and ensure that I have a successful semester. I used ChatGPT because it gave the best results when I previously compared two different AI models. I gave a copy of my schedule and other commitments to formulate a schedule that best works for me. I found that the more input I give the AI the better the results but I have to be careful to not give to much information that it over looks my prompts. 
  
 
