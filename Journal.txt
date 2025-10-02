@@ -25,5 +25,10 @@ Instead I referenced our lecture as well as got help from our TA with
 certain errors that I did not understand.
 
 For our week 2 discussion, I used ChatGPT to help with building a better study routine to stay ahead of assignments and ensure that I have a successful semester. I used ChatGPT because it gave the best results when I previously compared two different AI models. I gave a copy of my schedule and other commitments to formulate a schedule that best works for me. I found that the more input I give the AI the better the results but I have to be careful to not give to much information that it over looks my prompts. 
+
+Week 3
+This week I used AI while working on the assignments to refresh my memory on strip functions and how to implement/discard case sensitivy. I did not use AI to complete any of the exercises. Here are my AI chat links: https://chatgpt.com/share/68d88c4a-fb1c-800e-b4a9-3416e11f9274 
+
+Also, I did use AI to help with summarizing my notes for another course to test my knowledge. I found that there are several applications that can change my notes into flashcards and other tools and that again if prompted thoroughly the information is kept coherent and on topic.
  
 
