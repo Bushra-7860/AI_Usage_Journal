@@ -31,4 +31,6 @@ This week I used AI while working on the assignments to refresh my memory on str
 
 Also, I did use AI to help with summarizing my notes for another course to test my knowledge. I found that there are several applications that can change my notes into flashcards and other tools and that again if prompted thoroughly the information is kept coherent and on topic.
  
-
+Week 4
+This week I used AI while working on assignments to clarify what mistakes I might be making on my code and how to avoid it in the future. Here are my chat links: https://chatgpt.com/share/68e30593-91f0-800e-9bfc-4ef91e3c8a76
+I think that this helps guide users without taking away the learning aspect, using specific prompts for questions and using the given examples losely we can better take advantage of AI as a learning tool. 
