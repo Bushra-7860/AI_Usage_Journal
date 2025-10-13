@@ -34,3 +34,7 @@ Also, I did use AI to help with summarizing my notes for another course to test 
 Week 4
 This week I used AI while working on assignments to clarify what mistakes I might be making on my code and how to avoid it in the future. Here are my chat links: https://chatgpt.com/share/68e30593-91f0-800e-9bfc-4ef91e3c8a76
 I think that this helps guide users without taking away the learning aspect, using specific prompts for questions and using the given examples losely we can better take advantage of AI as a learning tool. 
+
+Week 5
+This week I did not use AI while working on the exercises at all. But as for my experiences with AI I used it to help guide me to prepare for midterms. I used ChatGPT and uploaded my lecture notes of my course and asked it to make detailed digital flashcards to help me study and I also asked it to quiz me about topics. I found that this is a great tool and using A.I to learn is a great way to integrate it into my academics. 
+
