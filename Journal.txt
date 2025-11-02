@@ -41,3 +41,5 @@ This week I did not use AI while working on the exercises at all. But as for my 
 Week 6 
 This week I did use AI while working on the excercises briefly to de bug an error in my code. I copied by code in and the error message to which the AI told me that I had intially misspelled the variable so when I was calling in later in the program the correct spelling did not to equate to anything. It really helped because when just staring at small font text slight mistakes like that are easy to miss. 
 
+Week 7
+This week I did not use AI while working on the excercises. I did use it to trouble shoot errors with GitHub regarding merging my teammates and I code together. I asked ChatGPT for help with trying different approaches to manually merge the code which eventually worked and even prompted me to set up a system to better access and manage changes in the future. 
