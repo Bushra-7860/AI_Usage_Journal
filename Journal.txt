@@ -43,3 +43,7 @@ This week I did use AI while working on the excercises briefly to de bug an erro
 
 Week 7
 This week I did not use AI while working on the excercises. I did use it to trouble shoot errors with GitHub regarding merging my teammates and I code together. I asked ChatGPT for help with trying different approaches to manually merge the code which eventually worked and even prompted me to set up a system to better access and manage changes in the future. 
+
+Week 8 
+This week I did use AI while working on the exercises for help with some errors I was facing. I found that prompting the AI with the error I was recieving and the code snippet relevant to the lines that were causing the error, made the AI more targeted on accurate solutions. These are my chats: https://chatgpt.com/share/690ccf47-0640-800e-ba25-a4893ba0b2da. Using this tool makes me handle error more efficiently. 
+
