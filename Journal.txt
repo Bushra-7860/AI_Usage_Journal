@@ -47,3 +47,5 @@ This week I did not use AI while working on the excercises. I did use it to trou
 Week 8 
 This week I did use AI while working on the exercises for help with some errors I was facing. I found that prompting the AI with the error I was recieving and the code snippet relevant to the lines that were causing the error, made the AI more targeted on accurate solutions. These are my chats: https://chatgpt.com/share/690ccf47-0640-800e-ba25-a4893ba0b2da. Using this tool makes me handle error more efficiently. 
 
+Week 9 
+This week I did not use AI while working on the exercises. I did use AI to study for upcoming exams and tests. It makes routine tasks faster and explains tricky concepts when I get stuck. I also experiment with it creatively for projects or brainstorming ideas. By the end of the week, AI feels like a helpful study companion.
