@@ -49,3 +49,6 @@ This week I did use AI while working on the exercises for help with some errors 
 
 Week 9 
 This week I did not use AI while working on the exercises. I did use AI to study for upcoming exams and tests. It makes routine tasks faster and explains tricky concepts when I get stuck. I also experiment with it creatively for projects or brainstorming ideas. By the end of the week, AI feels like a helpful study companion.
+
+Week 10 
+This week I used AI to debug my code once. I found that I was facing a continous issue in my excercises for this week. I was prompted to edit a specific class within the prompt and when writing about the class outside of its intial cell I was overriding the previous code. After asking ChatGPT for help it was recommended to make changes to the inital class definition and then impliment demonstrations of those changes in the cells that prompted any additions/changes. 
