@@ -52,3 +52,9 @@ This week I did not use AI while working on the exercises. I did use AI to study
 
 Week 10 
 This week I used AI to debug my code once. I found that I was facing a continous issue in my excercises for this week. I was prompted to edit a specific class within the prompt and when writing about the class outside of its intial cell I was overriding the previous code. After asking ChatGPT for help it was recommended to make changes to the inital class definition and then impliment demonstrations of those changes in the cells that prompted any additions/changes. 
+
+Week 11
+This week I did not use AI. I did not have much work that needed AI except my writing. I used a grammar-checking AI tool to help identify minor writing errors and improve sentence clarity. The tool did not generate content for me, it only suggested corrections that I reviewed and approved myself.
+
+Week 12 
+This week I used an AI study tool to help me review key concepts and clarify ideas I found confusing, for a few of my courses. It was especially helpful for breaking down complex topics into simpler explanations. While the tool supported my understanding, I made sure to think critically about the information and verify it with my course materials. Overall, it enhanced my study process without replacing my own learning.
